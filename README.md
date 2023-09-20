@@ -58,13 +58,13 @@
 
 # Tecnologías utilizadas
 
- <h3>PhP, Python, Django.</h3>
+ <h4>PhP, Python, Django</h4>
 
 # Personas Contribuyentes
 
 # Personas Desarrolladoras del Proyecto
 
-  <h3>Diana Shevchenko</h3>
+  <h4>Diana Shevchenko</h4>
   
 # Licencia
 
