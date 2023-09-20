@@ -19,6 +19,8 @@
    ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 
+
+
 <h2>Índice</h2>
 <dr>
  
@@ -51,15 +53,17 @@
 </h4>
 
 # Demostración de funciones y aplicaciones
-
+ 
 # Acceso al Proyecto
 
 # Tecnologías utilizadas
 
+ <h2>PhP, Python, Django.</h2>
+
 # Personas Contribuyentes
 
 # Personas Desarrolladoras del Proyecto
-
+  <h2>Diana Shevchenko</h2>
 # Licencia
 
 # Conclusión
