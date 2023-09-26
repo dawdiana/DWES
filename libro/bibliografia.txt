@@ -2,7 +2,4 @@
 Scott Chacon and Ben Strub. Pro Git. Apress.
 Loeliger, J. and McCullogh, M. Versión control with Git. O'Reilly.
 Hodson, R. Ry's Git Tutorial. Smashwords (2014)
-=======
-Scott Chacon and Ben Straub. Pro Git. Apress.
-Ryan Hodson. Ry's Git Tutorial. Smashwords (2014)
->>>>>>> bibliografia
+
