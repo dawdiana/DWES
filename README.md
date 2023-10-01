@@ -64,6 +64,7 @@
 
   <h4>Diana Shevchenko</h4>
   <h4>Prasamsa Castelao</h4>
+  <h4>Emilio Fraile Pintos</h4>
 
 # Personas Desarrolladoras del Proyecto
 
