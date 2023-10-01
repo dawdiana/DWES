@@ -62,11 +62,16 @@
 
 # Personas Contribuyentes
 
+  <h4>Diana Shevchenko</h4>
+  <h4>Prasamsa Castelao</h4>
+
 # Personas Desarrolladoras del Proyecto
 
   <h4>Diana Shevchenko</h4>
   
 # Licencia
+
+ <h4>PhP, Python, Django</h4>
 
 # Conclusión
  </body>
