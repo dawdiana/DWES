@@ -71,7 +71,7 @@
   
 # Licencia
 
- <h4>PhP, Python, Django</h4>
+ <h4>SLA</h4>
 
 # Conclusión
  </body>
