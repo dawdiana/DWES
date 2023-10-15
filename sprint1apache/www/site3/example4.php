@@ -23,7 +23,7 @@
 		</tr>
 
 		<?php
-			$lista = array(53,54,55,56,57);
+			$lista = array(51,52,53,54,55);
 			foreach ($lista as $valor) {
 				echo "<tr>";
 				echo "<td>".$valor."</td>";
