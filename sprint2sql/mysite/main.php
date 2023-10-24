@@ -12,7 +12,8 @@
 
 			//recorrer el resultado
 			while ($row = mysqli_fetch_array($result)) {
-				echo $row['nombre'];
+			//	Pilla el id  y lo relaciona al nombre de canción
+				echo '<a href="/detail.php?id='.$row['id'].'" >'.$row[1].'</a>';
 				echo '<br>';
 				echo '<img src=' .$row[2]. '/>';
 				echo '<br>';
@@ -21,6 +22,8 @@
 				echo $row[4];
 				echo '<br>';
 			}
+
+			$id = $row["id"];
 			mysqli_close($db);
 		?>
 	</body>
