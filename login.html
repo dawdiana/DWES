@@ -1,0 +1,35 @@
+<html>
+	<head><meta charset="UTF-8"></head>
+	<body>
+		<h1>Login</h1> <!--Html con formulario para iniciar sesión-->
+		<form id="formulario" action="login.php" method="post">
+			<input id="email" name="email" type="text" placeholder="Email"><br>
+			<input id="password" name="password" type="password" placeholder="Contraseña"><br>
+			<input type="submit" value="Iniciar sesión">
+		</form>
+
+	<script> <!--Script de javaScript para verificar que no hay celdas vacías-->
+		document.addEventListener("DOMContentLoaded", function() {
+			document.getElementById("formulario").addEventListener('submit', validarFormulario);
+		});
+
+	function validarFormulario(evento) {
+		evento.preventDefault();
+		var email = document.getElementById('email').value;
+		if(email.length == 0) {
+			alert('No hay un correo especificado');
+			return;
+		}
+		var password = document.getElementById('password').value;
+		if (password.length == 0) {
+			alert('No se ha especificado una contraseña');
+			return;
+		}
+			this.submit();
+
+		}
+
+	</script>
+
+	</body>
+</html>
